@@ -10,7 +10,7 @@ Enhance your QBCore server's vehicle experience with a customizable trunk invent
         -- Add more custom configurations for other vehicles here
     }
     ```
-2. ** Search for ** ```lua if CurrentVehicle then -- Trunk ``` in qb-inventory/client/main.lua **
+2. **Search for** ```lua if CurrentVehicle then -- Trunk ``` **in qb-inventory/client/main.lua**
    Replace that whole logic with
     
     ```lua
