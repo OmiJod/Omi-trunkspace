@@ -79,6 +79,6 @@ Enhance your QBCore server's vehicle experience with a customizable trunk invent
                 TriggerServerEvent("inventory:server:OpenInventory", "trunk", CurrentVehicle, other)
                 OpenTrunk()
             elseif CurrentGlovebox then
-        ```
+    ```
     
 
